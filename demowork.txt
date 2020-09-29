@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>homework lab1</title>
+ <meta charset="utf-8">
+</head>
+<body>
+<label>Image</label>
+<img src="images/b1.jpg">
+<ul>
+<lab1e>unorder list</lab1e>
+	<li>Home</li>
+	<li>About Us</li>
+	<li>Contact Us</li>
+	<li>Blog</li>
+</ul>
+<ol>
+<lab1e>order list</lab1e>
+	<li>Home</li>
+	<li>About Us</li>
+	<li>Contact Us</li>
+	<li>Blog</li>
+</ol>
+<lab1e>Table</lab1e>
+<table>
+<thead>
+<tr>
+<th>name</th>
+<th>phone</th>
+<th>email</th>
+
+</tr>
+</thead>
+</table>
+<lab1e>Form</lab1e>
+<form>
+	<label>Name</label>
+	<input type="text" name="name" placeholder="Enter Your Name">
+		<label>Phone</label>
+	<input type="text" name="name" placeholder="Enter Your Phone">
+	<label>Email</label>
+	<input type="text" name="name" placeholder="Enter Your Email">
+</form>
+
+
+<label>Menu</label>
+<Menu type="context">
+	<menuitem>name1</menuitem>
+		<menuitem>name2</menuitem>
+			<menuitem>name3</menuitem>
+				<menuitem>name4</menuitem>
+</Menu>
+
+<lab1>Link</lab1>
+<a href="https://templated.co/industrious">free template</a>
+
+<label>Header</label>
+<header>
+<h1>Welcome to our page</h1>
+<p>Another big addition that HTML5 comes with are the new
+indicating a new web anatomy</p>
+<button>click here</button>
+</header>
+
+
+<label>Footer</label>
+<h4>copyRigth by Rawand jaradh</h4>
+
+
+<label>vedio</label>
+<video autoplay loop muted playsinline src="images/banner.mp4"></video>
+
+
+
+</body>
+</html>
